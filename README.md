@@ -1,4 +1,4 @@
-<h1>Olá eu sou o Gabriel Botelho</h1>
+<h1>Olá! Eu sou o Gabriel Botelho</h1>
 
 <div align="center">
   <a href="https://github.com/gbbgabriel">
