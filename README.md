@@ -27,5 +27,3 @@
       <img width="25" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
     </a>
 </div>
-  
-![Snake animation](https://github.com/gbbgabriel/gbbgabriel/blob/output/github-contribution-grid-snake.svg)
