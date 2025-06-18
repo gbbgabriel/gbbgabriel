@@ -11,7 +11,7 @@
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nestjs-icon" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
+    <img align="center" height="30" width="40" alt="nestjs-icon" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
     <img align="center" height="30" width="40" alt="docker-icon" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   </div>
 
